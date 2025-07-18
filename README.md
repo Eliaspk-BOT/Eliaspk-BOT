@@ -11,7 +11,7 @@ Chatbot editável em português que usa a **WhatsApp Business Cloud/On‑Premise
 ## Passos rápidos
 ```bash
 pkg install -y nodejs git ffmpeg
-git clone <repo> waba-bot && cd waba-bot
+https://github.com/Eliaspk-BOT/Eliaspk-BOT.git waba-bot && cd waba-bot
 cp .env.example .env           # preencha tokens
 npm install
 npm start
